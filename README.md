@@ -73,7 +73,7 @@ GET /api/employees/search
 
 🐳 Run With Docker
 
-Clone the repository git clone https://github.com/arinamirzakhani/101418340_comp3123_assignment2_reactjs cd 101295074_comp3123_assignment2
+Clone the repository git clonehttps://github.com/Gadise13/101295075_comp3123_assignment2.git cd 101295074_comp3123_assignment2
 
 Start all services docker-compose up --build
 
